@@ -53,14 +53,13 @@ Example `requirements.txt`:
 
 ```text
 tensorflow
+Keras
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
-opencv-python
-pillow
-streamlit
+PIL
 ```
 # Future Improvements
 
