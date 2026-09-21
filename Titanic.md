@@ -480,7 +480,7 @@ Model-এর performance dataset split, preprocessing, random seed, architecture
 
 **Md Emon Islam**
 
-AI / Machine Learning / Deep Learning Learning Projects
+AI Enthusiast
 
 ---
 
